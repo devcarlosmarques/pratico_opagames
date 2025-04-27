@@ -30,9 +30,9 @@ Este projeto é um app websocket desenvolvido em Python com FastAPI, que oferece
 
 ### 2. Comandos para executar a aplicação [servidor]
 
-git clone "link_do_repositorio"
-cd teste_pratico_opagames
-docker compose up -d --build
+- git clone "link_do_repositorio"
+- cd teste_pratico_opagames
+- docker compose up -d --build
 
 ### 2. Como testar a aplicação [cliente]
 
