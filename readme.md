@@ -53,4 +53,4 @@ Você pode usar qualquer cliente WebSocket para testar a conexão. Exemplo: **Po
   Fibonacci(10) = 55
   ```
 
-> ⚠️ Obs: Envie apenas números inteiros positivos (ex: 1, 2, 3, 4...).
+>  Obs: Envie apenas números inteiros positivos (ex: 1, 2, 3, 4...).
