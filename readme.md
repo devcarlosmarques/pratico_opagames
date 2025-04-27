@@ -34,7 +34,9 @@ Este projeto é um app websocket desenvolvido em Python com FastAPI, que oferece
 - cd teste_pratico_opagames
 - docker compose up -d --build
 
-### 2. Como testar a aplicação [cliente]
+---
+
+## Como testar a aplicação
 
 Você pode usar qualquer cliente WebSocket para testar a conexão.
 Exemplo: Postman
