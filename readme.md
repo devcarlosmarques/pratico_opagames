@@ -28,7 +28,7 @@ Este projeto é uma aplicação WebSocket desenvolvida em **Python** com **FastA
 
 ```bash
 git clone "link_do_repositorio"
-cd teste_pratico_opagames
+cd "repositorio"
 docker compose up -d --build
 ```
 
